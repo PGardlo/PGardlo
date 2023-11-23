@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm currently studying.
+I'm interested in photography.
+
 <!--
 **PGardlo/PGardlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
